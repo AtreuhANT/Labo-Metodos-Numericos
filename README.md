@@ -24,7 +24,7 @@ Por el Teorema de Precisión Máxima de Gauss-Legendre: con n nodos se integra e
 
 Por tanto, con n = 4 nodos Gauss-Legendre obtiene error absoluto exactamente cero (salvo redondeo de punto flotante ~10⁻¹⁴). Ningún valor menor de n garantizaría esto. Esto se verifica en el ejercicio: para la integral de grado 5 se usó n = 3 (ya que 2·3−1 = 5 ≥ 5), y se obtuvo error 4.26×10⁻¹⁴, consistente con precisión de máquina.
 
-#Para ejecutar el codigo escribir en la terminal: 
+# Para ejecutar el codigo escribir en la terminal: 
 
 pip install numpy sympy
 
