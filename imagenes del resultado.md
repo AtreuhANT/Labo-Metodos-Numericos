@@ -1,4 +1,11 @@
-<img width="847" height="510" alt="image" src="https://github.com/user-attachments/assets/31071c6c-5df2-4018-9584-bb69a9e3e401" />
+f(x) = (1/sqrt(2*pi))*exp(-x**2/2)
+
+Límite inferior a = 0
+
+Límite superior b = 3
+
+<img width="831" height="470" alt="image" src="https://github.com/user-attachments/assets/85c5ccf0-8d5f-4c3d-b11d-fa525812893d" />
+
 
 
 f(x) = cos(x**2)
