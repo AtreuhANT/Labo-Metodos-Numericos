@@ -2,6 +2,21 @@
 
 y se instalara la libreria requerida
 
+luego al ejecutar:
+<img width="835" height="187" alt="image" src="https://github.com/user-attachments/assets/4f8f1e9a-cd45-420a-a3a0-c2e1982fa74c" />
+
+ponermos por ejemplo:
+
+f(x) = x**5 - 2*x**3 + 4
+
+Límite inferior a = -1
+
+Límite superior b = 2
+
+y saldria:
+<img width="829" height="459" alt="image" src="https://github.com/user-attachments/assets/520d236f-a53e-48cc-a4de-713c21fbce56" />
+
+
 """
 Ejercicio 1 - Clase de Laboratorio
 Integración Numérica: Trapecio, Simpson 1/3, Simpson 3/8 y Gauss-Legendre
