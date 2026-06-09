@@ -23,3 +23,25 @@ Por el Teorema de Precisión Máxima de Gauss-Legendre: con n nodos se integra e
 2n − 1 ≥ 7 ⟹ n ≥ 4
 
 Por tanto, con n = 4 nodos Gauss-Legendre obtiene error absoluto exactamente cero (salvo redondeo de punto flotante ~10⁻¹⁴). Ningún valor menor de n garantizaría esto. Esto se verifica en el ejercicio: para la integral de grado 5 se usó n = 3 (ya que 2·3−1 = 5 ≥ 5), y se obtuvo error 4.26×10⁻¹⁴, consistente con precisión de máquina.
+
+#Para ejecutar el codigo escribir en la terminal: 
+
+pip install numpy sympy
+
+y se instalara la libreria requerida
+
+luego al ejecutar:
+
+<img width="834" height="218" alt="image" src="https://github.com/user-attachments/assets/6027e62c-851f-49b0-bec5-3bf47c0299f1" />
+
+
+ponermos por ejemplo:
+
+f(x) = x**5 - 2*x**3 + 4
+
+Límite inferior a = -1
+
+Límite superior b = 2
+
+y saldria:
+<img width="829" height="459" alt="image" src="https://github.com/user-attachments/assets/520d236f-a53e-48cc-a4de-713c21fbce56" />
