@@ -1,4 +1,6 @@
-#Para ejecutar el codigo escribir en la terminal: pip install numpy sympy
+#Para ejecutar el codigo escribir en la terminal: 
+
+pip install numpy sympy
 
 y se instalara la libreria requerida
 
