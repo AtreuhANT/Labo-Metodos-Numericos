@@ -6,10 +6,6 @@ Simpson 3/8 Compuesto   |     13      | 0.4986462838   |   3.82e-06
 Gauss-Legendre (n=5)    |      5      | 0.4986490706   |   1.03e-06
 Valor exacto: 0.4986501020
 
-<img width="847" height="510" alt="image" src="https://github.com/user-attachments/assets/93b9115c-b9e5-48c0-a488-cd50f8c86fd2" />
-
-
-
 === ∫₀² cos(x²) dx ===
 Método                  | Puntos F(x) | Aproximación   | Error Absoluto
 Trapecio Compuesto      |     13      | 0.4685037984   |   7.04e-03
@@ -17,9 +13,6 @@ Simpson 1/3 Compuesto   |     13      | 0.4613260847   |   1.35e-04
 Simpson 3/8 Compuesto   |     13      | 0.4611780673   |   2.83e-04
 Gauss-Legendre (n=5)    |      5      | 0.4612266926   |   2.35e-04
 Valor exacto: 0.4614614624
-
-<img width="842" height="453" alt="image" src="https://github.com/user-attachments/assets/47c6a5b3-555e-4a67-bc4c-056b90bf18c4" />
-
 
 === ∫₋₂³ (x⁵ - 2x³ + 4) dx ===  ← POLINOMIO de grado 5
 Método                  | Puntos F(x) | Aproximación   | Error Absoluto
