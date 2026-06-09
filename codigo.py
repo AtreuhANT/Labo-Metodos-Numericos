@@ -1,3 +1,7 @@
+#Para ejecutar el codigo escribir en la terminal: pip install numpy sympy
+
+y se instalara la libreria requerida
+
 """
 Ejercicio 1 - Clase de Laboratorio
 Integración Numérica: Trapecio, Simpson 1/3, Simpson 3/8 y Gauss-Legendre
