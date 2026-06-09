@@ -1,26 +1,3 @@
-#Para ejecutar el codigo escribir en la terminal: 
-
-pip install numpy sympy
-
-y se instalara la libreria requerida
-
-luego al ejecutar:
-
-<img width="834" height="218" alt="image" src="https://github.com/user-attachments/assets/6027e62c-851f-49b0-bec5-3bf47c0299f1" />
-
-
-ponermos por ejemplo:
-
-f(x) = x**5 - 2*x**3 + 4
-
-Límite inferior a = -1
-
-Límite superior b = 2
-
-y saldria:
-<img width="829" height="459" alt="image" src="https://github.com/user-attachments/assets/520d236f-a53e-48cc-a4de-713c21fbce56" />
-
-
 """
 Ejercicio 1 - Clase de Laboratorio
 Integración Numérica: Trapecio, Simpson 1/3, Simpson 3/8 y Gauss-Legendre
