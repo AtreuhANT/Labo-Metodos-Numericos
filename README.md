@@ -1,5 +1,7 @@
 # Labo-Metodos-Numericos
 
+HUERTA SANTANA, SERGIO ALEXANDER ( 24190057 )
+
 Pregunta 1 – Eficiencia Computacional
 
 Los métodos de Newton-Cotes (Trapecio, Simpson) usaron 13 evaluaciones de f(x) para N=12 subintervalos. Gauss-Legendre con n=5 solo necesitó 5 evaluaciones. A pesar de ello, GL obtuvo errores comparables o menores.
