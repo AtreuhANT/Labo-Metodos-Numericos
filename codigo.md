@@ -3,7 +3,9 @@
 y se instalara la libreria requerida
 
 luego al ejecutar:
-<img width="835" height="187" alt="image" src="https://github.com/user-attachments/assets/4f8f1e9a-cd45-420a-a3a0-c2e1982fa74c" />
+
+<img width="834" height="218" alt="image" src="https://github.com/user-attachments/assets/6027e62c-851f-49b0-bec5-3bf47c0299f1" />
+
 
 ponermos por ejemplo:
 
